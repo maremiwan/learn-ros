@@ -13,7 +13,7 @@ Every example works stand-alone. You can download the entire repository or a spe
 `catkin_create_pkg mybot`  
 `cd ..`  
 `catkin_make`  
-- Add ROS package to search path (bash shell)
+- Add ROS package to search path (bash shell)  
 `source devel/setup.sh`
 - Launch the example  
 `roslaunch mybot mybot.launch`
@@ -29,7 +29,7 @@ Name | Profile
 Kiran Palla|[kiranpalla.com](https://kiranpalla.com)
 
 ## Credits
-To all the developers of ROS, Gazebo simulator, Ubuntu and to other open-source applications.
+To all the developers of ROS, Gazebo simulator, Ubuntu and other open-source applications.
 
 
 
