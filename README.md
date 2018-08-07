@@ -5,23 +5,12 @@ The purpose of this repository is to share ROS knowledge, concepts using simple 
 
 ## Playing with Examples!
 Every example works stand-alone. You can download the entire repository or a specific example.
-
-- To starting working with an example, first, check it out  
-`git checkout https://bitbucket.org/kiranpalla/learn-ros/<example>`  
-- Initialize workspace and compile ROS packages  
-`cd learn-ros/<example>/src`  
-`catkin_create_pkg mybot`  
-`cd ..`  
-`catkin_make`  
-- Add ROS package to search path (bash shell)  
-`source devel/setup.sh`
-- Launch the example  
-`roslaunch mybot mybot.launch`
+Follow instructions on the corresponding wiki page.
 
 ## List of Examples
 Directory | Description | Video Link
 :---------|:------------|:----------
-using-gazebo-laser-scan|Integrate Gazebo Hokuyo laser plugin with simulated robot|TBD
+[using-gazebo-laser-scan](https://bitbucket.org/kiranpalla/learn-ros/wiki/using-gazebo-laser-scan)|Integrate Gazebo Hokuyo laser plugin with simulated robot|TBD
 
 ## Repository Contributors
 Name | Profile
