@@ -8,9 +8,11 @@ Every example works stand-alone. You can download the entire repository or a spe
 Follow instructions on the corresponding wiki page.
 
 ## List of Examples
-Directory | Description | Video Link
-:---------|:------------|:----------
-[using-gazebo-laser-scan](https://bitbucket.org/kiranpalla/learn-ros/wiki/using-gazebo-laser-scan)|Integrate Gazebo Hokuyo laser plugin with simulated robot|TBD
+- using-gazebo-laser-scan  
+- using-gazebo-camera
+
+## Instructions
+Go to [learn-ros wiki](https://bitbucket.org/kiranpalla/learn-ros/wiki/Home) page for instructions to run examples.
 
 ## Repository Contributors
 Name | Profile
@@ -19,10 +21,3 @@ Kiran Palla|[kiranpalla.com](https://kiranpalla.com)
 
 ## Credits
 To all the developers of ROS, Gazebo simulator, Ubuntu and other open-source applications.
-
-
-
-
-
-
-
