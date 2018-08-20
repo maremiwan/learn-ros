@@ -8,16 +8,13 @@ Every example works stand-alone. You can download the entire repository or a spe
 Follow instructions on the corresponding wiki page.
 
 ## List of Examples
-- using-gazebo-laser-scan  
-- using-gazebo-camera
+Clicking on an example will open a [blog](https://kiranpalla.com/blog) post with instructions.
 
-## Instructions
-Go to [learn-ros wiki](https://bitbucket.org/kiranpalla/learn-ros/wiki/Home) page for instructions to run examples.
+- [using-gazebo-laser-scan](https://kiranpalla.com/blog/learn-ros-using-gazebo-laser-scan)
+- [using-gazebo-camera](https://kiranpalla.com/blog/learn-ros-using-gazebo-camera)
 
-## Repository Contributors
-Name | Profile
-:----|:-------
-Kiran Palla|[kiranpalla.com](https://kiranpalla.com)
+## Repository Contributor
+[Kiran Palla](https://kiranpalla.com)
 
 ## Credits
 To all the developers of ROS, Gazebo simulator, Ubuntu and other open-source applications.
