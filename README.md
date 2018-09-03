@@ -9,7 +9,7 @@ Every example is coded to work stand-alone. Download the entire repository and w
 ## List of Examples
 Click on an example to see my [blog](https://kiranpalla.com/blog) post containing instructions.
 
-- [using-gazebo-laser-scan](https://kiranpalla.com/blog/learn-ros-using-gazebo-camera-plug-in)
+- [using-gazebo-laser-scan](https://kiranpalla.com/blog/ros-using-gazebo-laser-scan-plug-in)
 - [using-gazebo-camera](https://kiranpalla.com/blog/ros-using-gazebo-camera-plugin)
 - using-gazebo-diff-drive-plugin
 
